@@ -1,6 +1,4 @@
 # Environment files
-.env
-.env.local
 .env.*.local
 
 # API keys
@@ -14,7 +12,6 @@ Thumbs.db
 
 # Editor files
 .idea/
-.vscode/
 *.swp
 *.swo
 
@@ -27,3 +24,8 @@ private/
 
 # Session templates (not committed)
 examples/sessions/*.tmp
+branch_structure.json
+temp_auto_push.bat
+temp_interactive_push.bat
+.gitignore
+config.bat
